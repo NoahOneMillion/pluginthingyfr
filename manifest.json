@@ -1,0 +1,13 @@
+{
+  "name": "WebpToPngProxy",
+  "id": "webp.to.png.proxy",
+  "version": "1.0.0",
+  "description": "Rewrites WebP image URLs to PNG so they display natively on iOS 13.",
+  "authors": [
+    {
+      "name": "LocalDev",
+      "id": "000000000000000000"
+    }
+  ],
+  "main": "index.js"
+}
